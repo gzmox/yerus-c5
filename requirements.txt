@@ -1,3 +1,5 @@
-Flask==2.3.2
+fastapi==0.95.2
+uvicorn==0.22.0
 pycryptodome==3.18.0
 requests==2.31.0
+mangum==0.15.0
